@@ -1,0 +1,354 @@
+{
+	"id": "37274090-d425-46ef-a13a-0bd489d08bfa",
+	"name": "SSMv2 - Prod",
+	"values": [
+		{
+			"key": "token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5zdXBlcnNlcnZpY2UuY29tIiwiWC1JRk0tVUlEIjoic3Qubmlzcy5ubC5kbHI0LjAzQGlmbS5jb20iLCJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiZXhwIjoxNTE3ODc0OTYxLCJpYXQiOjE1MTc4MDI5NjF9.ULjVPmVw_ayDU8UN6i8PdSTJcgqMApCZAVgWVmVCiVM",
+			"enabled": true
+		},
+		{
+			"key": "TOYO_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6InFhLnRtZS5wb3J0dWdhbC4xQGlmbS5jb20uYXUiLCJYLUlGTS1DT1VOVFJZIjoiUFQiLCJleHAiOjE1NDgyOTI5OTMsImlhdCI6MTU0ODIyMDk5M30.4eGCFOKrkpgYhrHRW3Er8hPyl8ipY1Pf-r3-ZTUZJVU",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "https://api.superservice.com",
+			"enabled": true
+		},
+		{
+			"key": "urlEU",
+			"value": "https://eu-api.superservice.com",
+			"enabled": true
+		},
+		{
+			"key": "urlLP",
+			"value": "https://login.superservice.com",
+			"enabled": true
+		},
+		{
+			"key": "urlMenus",
+			"value": "https://menus2-eu.superservice.com",
+			"enabled": true
+		},
+		{
+			"key": "TOYO_username",
+			"value": "ssmaqaprod.tme.1@ifmqa.com.au",
+			"enabled": true
+		},
+		{
+			"key": "TOYO_password",
+			"value": "Wj2EUw",
+			"enabled": true
+		},
+		{
+			"key": "TOYO_subscriptionAssignment",
+			"value": "DYN0000000004D3DAC",
+			"enabled": true
+		},
+		{
+			"key": "TOYO_quoteID",
+			"value": "5b02532fe4b040c7be971554",
+			"enabled": true
+		},
+		{
+			"key": "NISS_username",
+			"value": "ssmaqaprod.nissan.2@ifmqa.com.au",
+			"enabled": true
+		},
+		{
+			"key": "NISS_password",
+			"value": "jX3bGRf",
+			"enabled": true
+		},
+		{
+			"key": "NISS_subscriptionAssignment",
+			"value": "DYN0000000004D4A0D",
+			"enabled": true
+		},
+		{
+			"key": "NISS_quoteID",
+			"value": "5b5e4ba3e4b0320ab328bc13",
+			"enabled": true
+		},
+		{
+			"key": "nissTechnical_quoteID",
+			"value": "5bd8e714e4b0ae09763c0738",
+			"enabled": true
+		},
+		{
+			"key": "nissCommercial_quoteID",
+			"value": "5bd8e698e4b0dc3e4414ed96",
+			"enabled": true
+		},
+		{
+			"key": "NISS_provider",
+			"value": "api.nissan@microcat.com",
+			"enabled": true
+		},
+		{
+			"key": "NISS_refreshToken",
+			"value": "1KlDuvf6RyepH4zBo6hAsazBYKYeQGVihIEIlQc6q6jPE",
+			"enabled": true
+		},
+		{
+			"key": "NISSProvider_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6ImFwaS5uaXNzYW5AbWljcm9jYXQuY29tIiwiWC1JRk0tQ09VTlRSWSI6Ik5MIiwiZXhwIjoxNTQyOTEzOTU5LCJpYXQiOjE1NDI4NDE5NTl9.3jP1JFwEISBT7NArDw3Reyo2US6zftG-eNAseIgHDb0",
+			"enabled": true
+		},
+		{
+			"key": "NISS_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6InNzbWFxYXByb2Qubmlzc2FuLjJAaWZtcWEuY29tLmF1IiwiWC1JRk0tQ09VTlRSWSI6Ik5MIiwiZXhwIjoxNTQ4MzQ4MjQxLCJpYXQiOjE1NDgyNzYyNDF9.lLp3P9-PjjVUG8MGuwpBjjc0Y4PIzwc-8J8gednUhyM",
+			"enabled": true
+		},
+		{
+			"key": "NISS_SO_client",
+			"value": "helios_nl@infomedia.com.au",
+			"enabled": true
+		},
+		{
+			"key": "NISS_SO_client_password",
+			"value": "dTpKMqe",
+			"enabled": true
+		},
+		{
+			"key": "NISS_SO_provider",
+			"value": "api.helios@nissan-europe.com",
+			"enabled": true
+		},
+		{
+			"key": "NISS_SO_provider_password",
+			"value": "4jaQaKi",
+			"enabled": true
+		},
+		{
+			"key": "nissSOclient_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6ImhlbGlvc19ubEBpbmZvbWVkaWEuY29tLmF1IiwiWC1JRk0tQ09VTlRSWSI6Ik5MIiwiZXhwIjoxNTI2NjkzNTkyLCJpYXQiOjE1MjY2MjE1OTJ9.sOwpSS5IE5kZKS3MtzbXZ78ab4_r1sMBrMv0UhngTy0",
+			"enabled": true
+		},
+		{
+			"key": "toyoTechnical_quoteID",
+			"value": "5b14851ae4b072c8f6405334",
+			"enabled": true
+		},
+		{
+			"key": "toyoCommercial_quoteID",
+			"value": "5b148552e4b072c8f640533f",
+			"enabled": true
+		},
+		{
+			"key": "nissSOprovider_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6ImFwaS5oZWxpb3NAbmlzc2FuLWV1cm9wZS5jb20iLCJYLUlGTS1DT1VOVFJZIjoiTkwiLCJleHAiOjE1MjQ4NzkwMTMsImlhdCI6MTUyNDgwNzAxM30.LN7Aoh3UFvSOkUb1RQH27VJKh1dsTFeIodIFgd9ChCA",
+			"enabled": true
+		},
+		{
+			"key": "NISSClient_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6ImFwaS5uaXNzYW5AbWljcm9jYXQuY29tIiwiWC1JRk0tQ09VTlRSWSI6Ik5MIiwiZXhwIjoxNTQwOTM4NjA1LCJpYXQiOjE1NDA4NjY2MDV9.vMol0IQhIX9hPmsHO9EFEWJZXT0psv63QXhdg4iNb5E",
+			"enabled": true
+		},
+		{
+			"key": "toyoTechnicalCustomID",
+			"value": "5b14856fe4b072c8f6405349",
+			"enabled": true
+		},
+		{
+			"key": "toyoCommercialCustomID",
+			"value": "5b148593e4b03cae457590c6",
+			"enabled": true
+		},
+		{
+			"key": "multiSub_username",
+			"value": "ssmqa.niss.be.multisite.1@ifmqa.com.au",
+			"enabled": true
+		},
+		{
+			"key": "multiSub_password",
+			"value": "Y6MAJEM",
+			"enabled": true
+		},
+		{
+			"key": "multiSub_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6InNzbXFhLm5pc3MuYmUubXVsdGlzaXRlLjFAaWZtcWEuY29tLmF1IiwiWC1JRk0tQ09VTlRSWSI6IkJFIiwiZXhwIjoxNTQ4MjkzMTk5LCJpYXQiOjE1NDgyMjExOTl9.uElkShEMexO6Kh72ztamvS3g5oIQRN8XKe1J0zB9JVc",
+			"enabled": true
+		},
+		{
+			"key": "multiSub_siteA_subscriptionAssignmentId",
+			"value": "DYN00000000054C793",
+			"enabled": true
+		},
+		{
+			"key": "multiSub_siteA_companyId",
+			"value": "5b32e62ce4b0eca62c1d405d",
+			"enabled": true
+		},
+		{
+			"key": "multiSub_siteB_subscriptionAssignmentId",
+			"value": "DYN00000000054C9AE",
+			"enabled": true
+		},
+		{
+			"key": "multiSub_siteB_companyId",
+			"value": "5b32f40ee4b0eca62c1d41c4",
+			"enabled": true
+		},
+		{
+			"key": "multiHol_username",
+			"value": "ssmv2.nissan.be.holder@ifmqa.com.au",
+			"enabled": true
+		},
+		{
+			"key": "multiHol_password",
+			"value": "C5vHFws",
+			"enabled": true
+		},
+		{
+			"key": "multiHol_siteB_subscriptionAssignmentId",
+			"value": "DYN00000000054C813",
+			"enabled": true
+		},
+		{
+			"key": "multiHol_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6InNzbXYyLm5pc3Nhbi5iZS5ob2xkZXJAaWZtcWEuY29tLmF1IiwiWC1JRk0tQ09VTlRSWSI6IkJFIiwiZXhwIjoxNTQ4MzQ3NjM5LCJpYXQiOjE1NDgyNzU2Mzl9.xlzUGAHzxxvF9rBS_XyUr7TrMxOTaGvgxbabuRNBNrg",
+			"enabled": true
+		},
+		{
+			"key": "nissCustomOperation_quoteID",
+			"value": "5bd8e733e4b0dc3e4414ee1a",
+			"enabled": true
+		},
+		{
+			"key": "nissforfait_username",
+			"value": "ssmaqa.nissan.forfait.2a@ifmqa.com.au",
+			"enabled": true
+		},
+		{
+			"key": "nissforfait_password",
+			"value": "vRyrtg",
+			"enabled": true
+		},
+		{
+			"key": "nissforfait_subId",
+			"value": "DYN0000000005749A1",
+			"enabled": true
+		},
+		{
+			"key": "nissforfait_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6InNzbWFxYS5uaXNzYW4uZm9yZmFpdC4yYUBpZm1xYS5jb20uYXUiLCJYLUlGTS1DT1VOVFJZIjoiRlIiLCJleHAiOjE1NDgyNzA3MjMsImlhdCI6MTU0ODE5ODcyM30.R2JkHYrjxaBWKZ9xsD_rd7DGjNLI-Lnui_cQfBBfFHI",
+			"enabled": true
+		},
+		{
+			"key": "nissGeneric_quoteID",
+			"value": "5bf5e6605308d808b5ce6681",
+			"enabled": true
+		},
+		{
+			"key": "nissClient2_SubID",
+			"value": "DYN0000000005C63E1",
+			"enabled": true
+		},
+		{
+			"key": "NISSClient2_token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJFNFI3NWp0N1ZGbzUzZ3pzdTF3a1M3aUxqYngzSTJZTiIsInZmX2lmbSI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9hcGkuc3VwZXJzZXJ2aWNlLmNvbSIsIlgtSUZNLVVJRCI6InNzbXFhLm5lLmJlbGdpdW1AaWZtLmNvbS5hdSIsIlgtSUZNLUNPVU5UUlkiOiJCRSIsImV4cCI6MTU0ODM0ODE1MCwiaWF0IjoxNTQ4Mjc2MTUwfQ.dwpcJdRe8eSSg28QGziAbvaU8Yw09V13sUYvAoPi0xA",
+			"enabled": true
+		},
+		{
+			"key": "nissClient_SubID",
+			"value": "DYN00000000049B92A",
+			"enabled": true
+		},
+		{
+			"key": "nissTechnical2_quoteID",
+			"value": "5bd8e71ee4b0dc3e4414ee0a",
+			"enabled": true
+		},
+		{
+			"key": "nissDealerMenu_quoteID",
+			"value": "5bd8e728e4b0ae09763c07ac",
+			"enabled": true
+		},
+		{
+			"key": "toyoOSB_username",
+			"value": "qa.tme.portugal.1@ifm.com.au",
+			"enabled": true
+		},
+		{
+			"key": "toyoOSB_password",
+			"value": "ZKbwLwF",
+			"enabled": true
+		},
+		{
+			"key": "multi_toyoGB_username",
+			"value": "ifm.ssmqa.toyo.gb.1@ifmqa.com.au",
+			"enabled": true
+		},
+		{
+			"key": "multi_toyoGB_password",
+			"value": "pCj5bX",
+			"enabled": true
+		},
+		{
+			"key": "multi_nissGB_username",
+			"value": "ifm.ssmqa.nissgb.1@ifmqa.com.au",
+			"enabled": true
+		},
+		{
+			"key": "multi_nissGB_password",
+			"value": "qgkaCd",
+			"enabled": true
+		},
+		{
+			"key": "multi_toyoGB_companyId",
+			"value": "5c7c98c482fb1e0a07e36e3f",
+			"enabled": true
+		},
+		{
+			"key": "multi_nissGB_companyId",
+			"value": "5c7c914182fb1e0a07e36cda",
+			"enabled": true
+		},
+		{
+			"key": "multi_NT_companyId",
+			"value": "5c7c98c482fb1e0a07e36e3f",
+			"enabled": false
+		},
+		{
+			"key": "multifranchise_un",
+			"value": "ifm.ssmaqa.multitest.a@ifmqa.com.au",
+			"enabled": true
+		},
+		{
+			"key": "multifranchise_pw",
+			"value": "QzchNr",
+			"enabled": true
+		},
+		{
+			"key": "multifranchise_nissSubId",
+			"value": "DYN000000000644E14",
+			"enabled": true
+		},
+		{
+			"key": "multifranchise_toyoSubId",
+			"value": "DYN000000000644E19",
+			"enabled": true
+		},
+		{
+			"key": "nissDeleteOperation_quoteID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "nissBatchOrder1_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "nissBatchOrder2_id",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-05-06T06:36:47.283Z",
+	"_postman_exported_using": "Postman/7.0.9"
+}
